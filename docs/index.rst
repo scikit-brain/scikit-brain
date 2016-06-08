@@ -124,6 +124,13 @@ Development
 * Code Coverage: https://codecov.io/gh/scikit-brain/scikit-brain
 * Code Quality: https://codeclimate.com/github/scikit-brain/scikit-brain
 
+Style
+=====
+
+* Use `PEP8 <https://www.python.org/dev/peps/pep-0008/>`_.
+* Use `Semantic Versioning <http://semver.org/>`_.
+* Use `Fork and Pull Model <https://help.github.com/articles/using-pull-requests/#fork--pull>`_.
+
 License
 =======
 
