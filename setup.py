@@ -44,11 +44,11 @@
 # POSSIBILITY OF SUCH DAMAGE.                                             #
 # #########################################################################
 
-from setuptools import setup, Extension, find_packages, os
+import setuptools
 
-setup(
+setuptools.setup(
     name='scikit-brain',
-    version=open('VERSION').read().strip()
+    version=open('VERSION').read().strip(),
     author='scikit-brain developers',
     description='Data analysis ecosystem for large-scale brain mapping.',
     packages=setuptools.find_packages(exclude=['docs']),
