@@ -13,7 +13,7 @@ Scikit-Brain
    :target: https://codeclimate.com/github/scikit-brain/scikit-brain
    :alt: Code Climate
 
-.. image:: https://img.shields.io/codecov/c/github/codecov/example-python.svg
+.. image:: https://codecov.io/gh/scikit-brain/scikit-brain/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/scikit-brain/scikit-brain
    :alt: Code Coverage
 
