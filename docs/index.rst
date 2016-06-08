@@ -107,7 +107,6 @@ External-packages
 * `Xarray <http://xarray.pydata.org/en/stable/>`_
   : N-D labeled arrays and datasets.
 
-    
 Contribute
 ==========
 
@@ -115,6 +114,15 @@ Contribute
 * Documentation: https://github.com/scikit-brain/scikit-brain/tree/master/docs
 * Source Code: https://github.com/scikit-brain/scikit-brain/tree/master/skbrain
 * Tests: https://github.com/scikit-brain/scikit-brain/tree/master/tests
+
+Development
+===========
+
+* Conda Repository: https://anaconda.org/scikit-brain
+* Travis CI: https://travis-ci.org/scikit-brain/scikit-brain
+* Apveyor CI: https://ci.appveyor.com/project/ScikitBrain/scikit-brain
+* Code Coverage: https://codecov.io/gh/scikit-brain/scikit-brain
+* Code Quality: https://codeclimate.com/github/scikit-brain/scikit-brain
 
 License
 =======
