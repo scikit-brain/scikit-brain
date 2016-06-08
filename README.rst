@@ -9,6 +9,15 @@ Scikit-Brain
    :target: https://travis-ci.org/scikit-brain/scikit-brain
    :alt: Travis CI
 
+.. image:: https://codeclimate.com/github/scikit-brain/scikit-brain/badges/gpa.svg
+   :target: https://codeclimate.com/github/scikit-brain/scikit-brain
+   :alt: Code Climate
+
+.. image:: https://img.shields.io/codecov/c/github/codecov/example-python.svg
+   :target: https://codecov.io/gh/scikit-brain/scikit-brain
+   :alt: Code Coverage
+
+
 Data analysis ecosystem for large-scale brain mapping.
     
 Contribute
