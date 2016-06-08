@@ -1,26 +1,15 @@
 Scikit-Brain
 ############
 
+.. image:: https://readthedocs.org/projects/scikit-brain/badge/?version=latest
+   :target: https://readthedocs.org/projects/scikit-brain/?badge=latest
+   :alt: Read the Docs
+
 .. image:: https://travis-ci.org/scikit-brain/scikit-brain.svg?branch=master
-   :target: https://travis-ci.org/tomopy/tomopy
+   :target: https://travis-ci.org/scikit-brain/scikit-brain
    :alt: Travis CI
 
-Data analysis tools for brain mapping.
-
-Features
-========
-
-* xxx
-* xxx
-* xxx
-
-Installation
-============
-
-Have `Conda <http://continuum.io/downloads>`_ installed first,  
-then open a terminal or a command prompt window and run:
-
-    conda install -c scikit-brain scikit-brain
+Data analysis ecosystem for large-scale brain mapping.
     
 Contribute
 ==========
@@ -29,6 +18,15 @@ Contribute
 * Documentation: https://github.com/scikit-brain/scikit-brain/tree/master/docs
 * Source Code: https://github.com/scikit-brain/scikit-brain/tree/master/skbrain
 * Tests: https://github.com/scikit-brain/scikit-brain/tree/master/tests
+
+Development
+===========
+
+* Conda Repository: https://anaconda.org/scikit-brain
+* Travis CI: https://travis-ci.org/scikit-brain/scikit-brain
+* Apveyor CI: https://ci.appveyor.com/project/ScikitBrain/scikit-brain
+* Code Coverage: https://codecov.io/gh/scikit-brain/scikit-brain
+* Code Quality: https://codeclimate.com/github/scikit-brain/scikit-brain
 
 License
 =======
