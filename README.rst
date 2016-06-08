@@ -1,6 +1,10 @@
 Scikit-Brain
 ############
 
+.. image:: https://travis-ci.org/scikit-brain/scikit-brain.svg?branch=master
+   :target: https://travis-ci.org/tomopy/tomopy
+   :alt: Travis CI
+
 Data analysis tools for brain mapping.
 
 Features
